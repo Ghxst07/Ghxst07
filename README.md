@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ghxst07
-- 👀 I’m interested in bot making, simple and small game dev
-- 🌱 I’m currently learning JS, and Python
-- 📫 How to reach me by gamerzarindol@gmail.com
+- 👋 Hi, I’m Arindol Sarkar
+- 👀 I do backend stuff and develop bots.
+- 🌱 I’m currently learning DS and AI/ML
+- 📫 How to reach me by arindolsarkar07@gmail.com
 
